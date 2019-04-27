@@ -1,2 +1,0 @@
-# jerryhirsch
-Created with CodeSandbox
